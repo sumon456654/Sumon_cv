@@ -1,0 +1,145 @@
+<html>
+<head>
+<title>Md.Sumon_Sheikh_CV</title>
+<style>
+body {
+  background-image: url('https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+</head>
+<body>
+	<img align ="right" src="sumon orjinal pasport size.png" width="300px" hight="300px">
+	
+	<blockquote><p style=" color:white;font-size:50px">Resume Of</p>
+	<p style=" color:white;font-size:30px">SUMON SHEIKH</p>
+	<h4 style=" color:white;font-size:30px"> House# 212/2, North kazipara, kafrul, Mirpur-10,Dhaka-1216</h4>
+	<h4 style=" color:white;font-size:30px">Contact No.: 01715-582722</h4>
+	<h4 style=" color:white;font-size:30px">E-mail: sumon456ab@gmail.com</h4></blockquote>
+	<p style=" background-color:#0000ff;color:white;font-size:50px">&nbsp;&nbsp;&nbsp;&nbsp;Objective:</p>
+	<blockquote><h4 style=" color:white;font-size:38px">To get suitable position in a renowned organization like yours that matches my education qualification to achieve organization goal and give enough reward and opportunity for personal as well as professional development.</h4></blockquote>
+	<p style=" background-color:#0000ff;color:white;font-size:50px">&nbsp;&nbsp;&nbsp;&nbsp;Profile:</p>
+	<blockquote><h4 style=" color:white;font-size:38px">I believe in hard work, integrity, perseverance and dedication towards the work in my hard advancement through explanation of newly acquired knowledge in future.</h4></blockquote>
+	<p style="background-color:#0000ff;color:white;font-size:50px">&nbsp;&nbsp;&nbsp;&nbsp;Educational Qualification:</p>
+	<!fast colom-->
+	<u style="color:white;"><p style="font-size:32;color:white;">Secondary School Certificate (SSC):</p></u>
+	<blockquote><h2 style="color:white;">
+	<tr>
+		<th>Name of Institute</th>
+		<th>:</th>
+		<th>Bysdi Rashida Nabi High School</th>
+	</tr></h2>
+		<tr><h2 style="color:white;">
+		<th>Passing Year</th>
+		<th>:</th>
+		<th>2016</th>
+	</tr>
+	</h2>
+	<tr><h2 style="color:white;">
+		<th>Result</th>
+		<th>:</th>
+		<th>CGPA 3.00 (Out of 5)</th>
+	</tr>
+	</h2>
+	<tr><h2 style="color:white;">
+		<th>Subject</th>
+		<th>:</th>
+		<th>Business</th>
+	</tr>
+	</h2>
+	<tr><h2 style="color:white;">
+		<th>Board</th>
+		<th>:</th>
+		<th>Dhaka</th>
+	</tr>
+	</h2></blockquote>
+	
+	<!secent colom-->
+	<u style="color:white;"><p style="font-size:32;color:white;">Diploma in Engineering:</p></u>
+	<blockquote><h2 style="color:white;">
+	<tr>
+		<th>Name of Institute</th>
+		<th>:</th>
+		<th>Mirpur Polytechnic Institute(MPI)</th>
+	</tr></h2>
+		<tr><h2 style="color:white;">
+		<th>Result</th>
+		<th>:</th>
+		<th>(running)</th>
+	</tr>
+	</h2>
+	<tr><h2 style="color:white;">
+		<th>Semester</th>
+		<th>:</th>
+		<th>8 Semester(Running)</th>
+	</tr>
+	</h2>
+	<tr><h2 style="color:white;">
+		<th>Subject</th>
+		<th>:</th>
+		<th>Compuetr(CSE)</th>
+	</tr>
+	</h2>
+	<tr><h2 style="color:white;">
+		<th>Board</th>
+		<th>:</th>
+		<th>Bangladesh Tecnical Education Board(BTEB)</th>
+	</tr>
+	</h2></blockquote>
+		
+	<!Graphic Design>
+	<u style="color:white;"><p style="font-size:32;color:white;">Graphic Design:</p></u>
+	<blockquote><h2 style="color:white;">
+	<tr>
+		<th>Name of Institute</th>
+		<th>:</th>
+		<th>Bangladesh-German Tecnical Training Center-(BGTTC)</th>
+	</tr></h2>
+		<tr><h2 style="color:white;">
+		<th>Result</th>
+		<th>:</th>
+		<th>Competent</th>
+	</tr>
+	</h2>
+	<tr><h2 style="color:white;">
+		<th>Chores Time</th>
+		<th>:</th>
+		<th>4 Month</th>
+	</tr>
+	</h2></blockquote>
+	
+	<!language Skill:>
+	<p style=" background-color:#0000ff;color:white;font-size:50px">&nbsp;&nbsp;&nbsp;&nbsp;language Skill:</p>
+	<blockquote><h2 style="color:white;">
+	<tr>
+		<th>Bangali</th>
+		<th>:</th>
+		<th>Excellent Command in speaking Reading and writing</th>
+	</tr></h2>
+		<tr><h2 style="color:white;">
+		<th>English</th>
+		<th>:</th>
+		<th>Good Command in speaking Reading and writing</th>
+	</tr>
+	</h2></blockquote>
+		<!Computer Skill:>
+	<p style=" background-color:#0000ff;color:white;font-size:50px">&nbsp;&nbsp;&nbsp;&nbsp;Computer Skill:</p>
+	<blockquote><h2 style="color:white;">
+	<tr>
+		<th>Office Program</th>
+		<th>:</th>
+		<th>Computer Course of MS Word, MS Excel, MS Power Point & Internet browser.</th>
+	</tr></h2></blockquote>
+			<!Personal Information:>
+	<p style=" background-color:#0000ff;color:white;font-size:50px">&nbsp;&nbsp;&nbsp;&nbsp;Personal Information:</p>
+	<blockquote><h2 style="color:white;">
+	<tr>
+		<th>Name</th>
+		<th>:</th>
+		<th>Sumon_Sheikh</th>
+	</tr></h2>
+	
+	</body>
+</html> 
